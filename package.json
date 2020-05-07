@@ -1,6 +1,6 @@
 {
   "name": "muti_module_system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue 分模块开发项目",
   "author": "quanhu <quanhu@olemob.com>",
   "private": true,
